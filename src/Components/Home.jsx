@@ -19,7 +19,7 @@ const Home= ()=>{
                         Healthy soil, thriving crops, and a greener planet start with informed choices. Discover how AgroAdvisor can transform your agricultural journey.
                     </p>
 
-                    <Link to="/authentication">
+                    <Link to="/auth">
                         <button className=" rounded-3xl m-6 p-6 flex font-semibold items-center border-2 border-green-800 hover:bg-amber-600  hover:shadow-lg">
                             Let's Get Started 
                             <img className="w-8 pl-2" src={require('../public/Icons/right-arrow.png')} alt="" />
